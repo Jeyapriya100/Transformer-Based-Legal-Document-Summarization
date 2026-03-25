@@ -148,4 +148,4 @@ python -m nltk.downloader punkt punkt_tab
 
 - [InCaseLawBERT](https://huggingface.co/law-ai/InCaseLawBERT) by law-ai for the Indian legal domain language model
 - [Indian Supreme Court Judgments Dataset](https://www.kaggle.com/datasets/vangap/indian-supreme-court-judgments) on Kaggle
-- LexRank: Graph-based Lexical Centrality as Salience in Text Summarization (Erkan & Radev, 2004)
+
